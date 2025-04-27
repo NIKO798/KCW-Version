@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.11.12",
-  "releaseNotes": "UPDATE_RELEASE_NOTES",
+  "latestVersion": "1.11.13",
+  "releaseNotes": "修复透明小组件显示异常问题",
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
