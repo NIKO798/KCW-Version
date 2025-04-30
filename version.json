@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.11.14",
+  "latestVersion": "1.12.0",
   "releaseNotes": {
-    "en": "12/24-hour support and new album widgets.",
-    "zh-Hans": "支持 12/24 小时制与新增相册小组件。",
-    "zh-Hant": "支援 12/24 小時制與新增相簿小工具。",
-    "ja": "12/24時間表記対応＆新しいアルバムウィジェット追加。"
+    "en": "New Pack · 12 Classic Faces Widgets",
+    "zh-Hans": "重磅新套装·12枚经典时钟小组件",
+    "zh-Hant": "重磅新套裝·12枚經典時鐘小工具",
+    "ja": "新パック·12種類のクラシック時計ウィジェット"
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
