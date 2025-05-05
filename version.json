@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.12.0",
+  "latestVersion": "1.13.0",
   "releaseNotes": {
-    "en": "New Pack · 12 Classic Faces Widgets",
-    "zh-Hans": "重磅新套装·12枚经典时钟小组件",
-    "zh-Hant": "重磅新套裝·12枚經典時鐘小工具",
-    "ja": "新パック·12種類のクラシック時計ウィジェット"
+    "en": "3 Classic Clock Widgets & 5 All-New Styles",
+    "zh-Hans": "上新3款经典时钟 & 5款全新样式组件",
+    "zh-Hant": "全新上架 3 款經典時鐘與 5 款全新樣式小工具",
+    "ja": "クラシックな時計ウィジェット3種と新デザイン5種を追加"
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
