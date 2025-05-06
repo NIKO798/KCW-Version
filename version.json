@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.13.0",
+  "latestVersion": "1.14.0",
   "releaseNotes": {
-    "en": "3 Classic Clock Widgets & 5 All-New Styles",
-    "zh-Hans": "上新3款经典时钟 & 5款全新样式组件",
-    "zh-Hant": "全新上架3款經典時鐘與5款全新樣式小工具",
-    "ja": "クラシックな時計ウィジェット3種と新デザイン5種を追加"
+    "en": "Redesigned 'My Collection' interface",
+    "zh-Hans": "全新设计的“我的小组件”界面",
+    "zh-Hant": "全新設計的「我的小工具」介面",
+    "ja": "「マイコレクション」画面をリデザイン"
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
