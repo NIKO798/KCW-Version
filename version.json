@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.14.0",
+  "latestVersion": "1.14.1",
   "releaseNotes": {
-    "en": "Redesigned 'My Collection' interface",
-    "zh-Hans": "全新设计的“我的小组件”界面",
-    "zh-Hant": "全新設計的「我的小工具」介面",
-    "ja": "「マイコレクション」画面をリデザイン"
+    "en": "Added 4 new frame styles for photo widgets, and improved Home performance",
+    "zh-Hans": "相册小组件新增4种相框样式，优化首页流畅性",
+    "zh-Hant": "相簿小工具新增4種相框樣式，優化首頁流暢度",
+    "ja": "写真ウィジェットに新しいフレーム4種を追加、ホーム画面の動作を改善"
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
