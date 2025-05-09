@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.14.1",
+  "latestVersion": "1.14.2",
   "releaseNotes": {
-    "en": "Added 4 new frame styles for photo widgets, and improved Home performance",
-    "zh-Hans": "相册小组件新增4种相框样式，优化首页流畅性",
-    "zh-Hant": "相簿小工具新增4種相框樣式，優化首頁流暢度",
-    "ja": "写真ウィジェットに新しいフレーム4種を追加、ホーム画面の動作を改善"
+    "en": "Added Chrome, Alipay, and NetEase Music widgets to the Starry River series",
+    "zh-Hans": "上线网易云音乐·Chrome·支付宝小组件",
+    "zh-Hant": "星河系列新增Chrome, 支付寶與網易雲音樂小工具",
+    "ja": "Starry RiverシリーズにChrome, Alipay, NetEase Musicのウィジェットを追加"
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
