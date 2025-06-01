@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.14.2",
+  "latestVersion": "1.14.4",
   "releaseNotes": {
-    "en": "Added Chrome, Alipay, and NetEase Music widgets to the Starry River series",
-    "zh-Hans": "上线网易云音乐·Chrome·支付宝小组件",
-    "zh-Hant": "星河系列新增Chrome, 支付寶與網易雲音樂小工具",
-    "ja": "Starry RiverシリーズにChrome, Alipay, NetEase Musicのウィジェットを追加"
+    "en": "Now with system calendar integration and 3 all-new widgets",
+    "zh-Hans": "接入系统日历日程，上线三款全新小组件",
+    "zh-Hant": "整合系統日曆行程，推出三款全新小工具",
+    "ja": "システムカレンダー連携を追加、全新しい3種類のウィジェットをリリース"
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
