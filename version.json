@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.14.4",
+  "latestVersion": "1.14.5",
   "releaseNotes": {
-    "en": "Now with system calendar integration and 3 all-new widgets",
-    "zh-Hans": "接入系统日历日程，上线三款全新小组件",
-    "zh-Hant": "整合系統日曆行程，推出三款全新小工具",
-    "ja": "システムカレンダー連携を追加、全新しい3種類のウィジェットをリリース"
+    "en": "Fixed third-party app redirection issues, added 3 Minimalist widgets",
+    "zh-Hans": "修复第三方App跳转问题，新增三款极简主义小组件",
+    "zh-Hant": "修復第三方App跳轉問題，新增三款極簡主義小工具",
+    "ja": "サードパーティアプリのリダイレクト問題を修正、ミニマリストウィジェット3種を追加"
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
