@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.14.5",
+  "latestVersion": "1.14.7",
   "releaseNotes": {
-    "en": "Fixed third-party app redirection issues, added 3 Minimalist widgets",
-    "zh-Hans": "修复第三方App跳转问题，新增三款极简主义小组件",
-    "zh-Hant": "修復第三方App跳轉問題，新增三款極簡主義小工具",
-    "ja": "サードパーティアプリのリダイレクト問題を修正、ミニマリストウィジェット3種を追加"
+    "en": "Added two classic iOS-style icon packs",
+    "zh-Hans": "上线两套 iOS 经典图标包",
+    "zh-Hant": "上線兩套 iOS 經典圖示包",
+    "ja": "iOSクラシックスタイルのアイコンパックを2種類追加"
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
