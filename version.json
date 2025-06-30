@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.14.7",
+  "latestVersion": "1.14.8",
   "releaseNotes": {
-    "en": "Added two classic iOS-style icon packs",
-    "zh-Hans": "上线两套 iOS 经典图标包",
-    "zh-Hant": "上線兩套 iOS 經典圖示包",
-    "ja": "iOSクラシックスタイルのアイコンパックを2種類追加"
+    "en": "Updated some interface elements to improve the overall experience.",
+    "zh-Hans": "「桌面搭配月度挑战」已上线，赢取 iPad / AirPods！",
+    "zh-Hant": "「桌面搭配月度挑戰」已上線，贏取 iPad / AirPods！",
+    "ja": "Updated some interface elements to improve the overall experience."
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
