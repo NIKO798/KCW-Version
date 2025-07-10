@@ -1,10 +1,10 @@
 {
-  "latestVersion": "1.14.8",
+  "latestVersion": "1.14.9",
   "releaseNotes": {
-    "en": "Updated some interface elements to improve the overall experience.",
-    "zh-Hans": "「桌面挑战」已上线，赢取iPad/AirPods！",
-    "zh-Hant": "「桌面挑戰」已上線，贏取iPad/AirPods！",
-    "ja": "Updated some interface elements to improve the overall experience."
+    "en": "Some widgets redesigned. Dynamic Island settings revamped.",
+    "zh-Hans": "部分小组件焕新设计，灵动岛配置页面全新改版。",
+    "zh-Hant": "部分小組件煥新設計，靈動島配置頁面全新改版。",
+    "ja": "一部のウィジェットを刷新。ダイナミックアイランド設定を一新。"
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
