@@ -1,10 +1,17 @@
 {
-  "latestVersion": "1.15.0",
+  "latestVersion": "1.16.0",
   "releaseNotes": {
-    "en": "Brand new real-time salary feature and 4 income widgets now available.",
-    "zh-Hans": "全新上线实时工资功能及4款薪资小组件。",
-    "zh-Hant": "全新上線實時工資功能及4款薪資小組件。",
-    "ja": "リアルタイム給与機能と4つの給与ウィジェットが新登場。"
+    "en": "[Digital Retro] New widget bundle is now available! Perfect fusion of modern design and vintage aesthetics.",
+    "zh-Hans": "【数字复古】全新小组件套装已上线！现代设计与复古美学完美融合。",
+    "zh-Hant": "【數位復古】全新小組件套裝已上線！現代設計與復古美學完美融合。",
+    "ja": "【デジタルレトロ】新ウィジェットバンドル登場！モダンデザインとレトロ美学の完璧な融合。",
+    "ko": "[디지털 레트로] 신규 위젯 번들 출시! 모던 디자인과 레트로 미학의 완벽한 조화.",
+    "de": "[Digital Retro] Neues Widget-Bundle verfügbar! Perfekte Verbindung modernen Designs mit Vintage-Ästhetik.",
+    "es": "[Retro Digital] ¡Nuevo paquete de widgets disponible! Fusión perfecta de diseño moderno y estética vintage.",
+    "fr": "[CyberRétro] Nouveau pack de widgets disponible ! Fusion parfaite du design moderne et de l'esthétique vintage.",
+    "it": "[Retro Digitale] Nuovo bundle di widget disponibile! Perfetta fusione tra design moderno ed estetica vintage.",
+    "pt-PT": "[Retro Digital] Novo pacote de widgets disponível! Fusão perfeita de design moderno e estética vintage.",
+    "ru": "[ЦифроРетро] Новый набор виджетов доступен! Идеальное сочетание современного дизайна и ретро-эстетики."
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
