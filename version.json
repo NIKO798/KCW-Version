@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.17.1",
+  "latestVersion": "1.17.2",
   "releaseNotes": {
     "en": "Urgent fix for shortcut execution issues.",
     "zh-Hans": "紧急修复快捷指令执行问题。",
