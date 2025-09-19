@@ -1,17 +1,17 @@
 {
-  "latestVersion": "1.16.1",
+  "latestVersion": "1.17.1",
   "releaseNotes": {
-    "en": "Fixed Live Island GIF display issues, Optimized overall interface smoothness",
-    "zh-Hans": "修复灵动岛GIF动图显示异常问题，优化整体界面交互流畅度",
-    "zh-Hant": "修復靈動島GIF動圖顯示異常問題，優化整體界面交互流暢度",
-    "ja": "ダイナミックアイランドGIF表示問題を修正, インターフェースの操作性を最適化",
-    "ko": "다이나믹 아일랜드 GIF 표시 문제 수정, 전체 인터페이스 흐름 최적화",
-    "de": "Behebung von GIF-Anzeigeproblemen auf der Dynamic Island, Optimierung der Interface-Smoothness",
-    "es": "Corregidos problemas de visualización de GIF en Dynamic Island, Optimizada fluidez de interfaz",
-    "fr": "Résolution des problèmes d'affichage GIF sur l'îlot dynamique, Optimisation de la fluidité",
-    "it": "Risolti problemi di visualizzazione GIF su Dynamic Island, Ottimizzata fluidità interfaccia",
-    "pt-PT": "Corrigidos problemas de exibição de GIF na Dynamic Island, Otimizada fluidez da interface",
-    "ru": "Исправлены проблемы отображения GIF в Dynamic Island, Оптимизирована плавность интерфейса"
+    "en": "Urgent fix for shortcut execution issues.",
+    "zh-Hans": "紧急修复快捷指令执行问题。",
+    "zh-Hant": "緊急修復捷徑執行問題。",
+    "ja": "ショートカット実行問題を緊急修正しました。",
+    "ko": "단축어 실행 문제를 긴급 수정했습니다.",
+    "de": "Dringende Korrektur von Shortcut-Fehlern.",
+    "es": "Corrección urgente de fallos en atajos.",
+    "fr": "Correctif urgent des problèmes de raccourcis.",
+    "it": "Correzione urgente dei problemi dei comandi rapidi.",
+    "pt-PT": "Correção urgente de problemas nos atalhos.",
+    "ru": "Срочное исправление проблем с ярлыками."
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
