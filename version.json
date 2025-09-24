@@ -1,17 +1,17 @@
 {
-  "latestVersion": "1.17.2",
+  "latestVersion": "1.17.3",
   "releaseNotes": {
-    "en": "Urgent fix for shortcut execution issues.",
-    "zh-Hans": "紧急修复快捷指令执行问题。",
-    "zh-Hant": "緊急修復捷徑執行問題。",
-    "ja": "ショートカット実行問題を緊急修正しました。",
-    "ko": "단축어 실행 문제를 긴급 수정했습니다.",
-    "de": "Dringende Korrektur von Shortcut-Fehlern.",
-    "es": "Corrección urgente de fallos en atajos.",
-    "fr": "Correctif urgent des problèmes de raccourcis.",
-    "it": "Correzione urgente dei problemi dei comandi rapidi.",
-    "pt-PT": "Correção urgente de problemas nos atalhos.",
-    "ru": "Срочное исправление проблем с ярлыками."
+    "en": "Fixed transparent widget issue on iOS 26.1 Beta.",
+    "zh-Hans": "修复26.1Beta版本透明小组件问题。",
+    "zh-Hant": "修復26.1Beta版本透明小工具問題。",
+    "ja": "iOS 26.1ベータ版での透明ウィジェット問題を修正しました。",
+    "ko": "iOS 26.1 베타에서 투명 위젯 문제를 수정했습니다.",
+    "de": "Problem mit transparenten Widgets in iOS 26.1 Beta behoben.",
+    "es": "Se corrigió el problema de widgets transparentes en iOS 26.1 Beta.",
+    "fr": "Correction du problème des widgets transparents sur iOS 26.1 Beta.",
+    "it": "Risolto il problema dei widget trasparenti su iOS 26.1 Beta.",
+    "pt-PT": "Corrigido o problema dos widgets transparentes no iOS 26.1 Beta.",
+    "ru": "Исправлена проблема с прозрачными виджетами в iOS 26.1 Beta."
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
