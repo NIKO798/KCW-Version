@@ -1,17 +1,17 @@
 {
-  "latestVersion": "1.17.3",
-  "releaseNotes": {
-    "en": "Fixed transparent widget issue on iOS 26.1 Beta.",
-    "zh-Hans": "修复26.1Beta版本透明小组件问题。",
-    "zh-Hant": "修復26.1Beta版本透明小工具問題。",
-    "ja": "iOS 26.1ベータ版での透明ウィジェット問題を修正しました。",
-    "ko": "iOS 26.1 베타에서 투명 위젯 문제를 수정했습니다.",
-    "de": "Problem mit transparenten Widgets in iOS 26.1 Beta behoben.",
-    "es": "Se corrigió el problema de widgets transparentes en iOS 26.1 Beta.",
-    "fr": "Correction du problème des widgets transparents sur iOS 26.1 Beta.",
-    "it": "Risolto il problema dei widget trasparenti su iOS 26.1 Beta.",
-    "pt-PT": "Corrigido o problema dos widgets transparentes no iOS 26.1 Beta.",
-    "ru": "Исправлена проблема с прозрачными виджетами в iOS 26.1 Beta."
-  },
-  "appStoreURL": "https://apps.apple.com/app/id6702013570"
-}
+    "latestVersion": "1.22.0",
+    "releaseNotes": {
+      "en": "Direct Launch: now supported for widgets.",
+      "zh-Hans": "“直接跳转”：小组件和灵动岛现已支持。",
+      "zh-Hant": "「直接跳轉」：小工具和動態島現已支援。",
+      "ja": "「直接起動」がウィジェットに対応しました。",
+      "ko": "‘직접 실행’을 위젯에서 지원합니다.",
+      "de": "Direktstart: jetzt fuer Widgets verfügbar.",
+      "es": "Inicio directo: ya disponible en widgets.",
+      "fr": "Lancement direct : disponible pour les widgets.",
+      "it": "Avvio diretto: ora supportato dai widget.",
+      "pt-PT": "Início direto: já disponível nos widgets.",
+      "ru": "Прямой запуск: теперь для виджетов."
+    },
+    "appStoreURL": "https://apps.apple.com/app/id6702013570"
+  }
