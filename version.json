@@ -1,17 +1,17 @@
 {
-    "latestVersion": "1.22.0",
-    "releaseNotes": {
-      "en": "Direct Launch: now supported for widgets.",
-      "zh-Hans": "“直接跳转”：小组件和灵动岛现已支持。",
-      "zh-Hant": "「直接跳轉」：小工具和動態島現已支援。",
-      "ja": "「直接起動」がウィジェットに対応しました。",
-      "ko": "‘직접 실행’을 위젯에서 지원합니다.",
-      "de": "Direktstart: jetzt fuer Widgets verfügbar.",
-      "es": "Inicio directo: ya disponible en widgets.",
-      "fr": "Lancement direct : disponible pour les widgets.",
-      "it": "Avvio diretto: ora supportato dai widget.",
-      "pt-PT": "Início direto: já disponível nos widgets.",
-      "ru": "Прямой запуск: теперь для виджетов."
-    },
-    "appStoreURL": "https://apps.apple.com/app/id6702013570"
-  }
+  "latestVersion": "1.22.1",
+  "releaseNotes": {
+    "en": "Fixed rare Dynamic Island crashes.",
+    "zh-Hans": "修复灵动岛在少数情况下可能出现的崩溃问题。",
+    "zh-Hant": "修復動態島在少數情況下可能出現的崩潰問題。",
+    "ja": "まれなDynamic Islandのクラッシュを修正しました。",
+    "ko": "드문 다이내믹 아일랜드 충돌을 수정했습니다.",
+    "de": "Seltene Dynamic-Island-Abstürze behoben.",
+    "es": "Fallos raros de Dynamic Island corregidos.",
+    "fr": "Rares plantages de Dynamic Island corrigés.",
+    "it": "Rari crash di Dynamic Island risolti.",
+    "pt-PT": "Falhas raras da Dynamic Island corrigidas.",
+    "ru": "Исправлены редкие сбои Dynamic Island."
+  },
+  "appStoreURL": "https://apps.apple.com/app/id6702013570"
+}
