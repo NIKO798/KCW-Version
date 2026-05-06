@@ -1,5 +1,5 @@
 {
-  "latestVersion": "1.22.1",
+  "latestVersion": "1.22.2",
   "releaseNotes": {
     "en": "Fixed rare Dynamic Island crashes.",
     "zh-Hans": "修复灵动岛在少数情况下可能出现的崩溃问题。",
