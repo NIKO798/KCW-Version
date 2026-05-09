@@ -1,17 +1,17 @@
 {
-  "latestVersion": "1.22.2",
+  "latestVersion": "1.22.3",
   "releaseNotes": {
-    "en": "Fixed rare Dynamic Island crashes.",
-    "zh-Hans": "修复灵动岛在少数情况下可能出现的崩溃问题。",
-    "zh-Hant": "修復動態島在少數情況下可能出現的崩潰問題。",
-    "ja": "まれなDynamic Islandのクラッシュを修正しました。",
-    "ko": "드문 다이내믹 아일랜드 충돌을 수정했습니다.",
-    "de": "Seltene Dynamic-Island-Abstürze behoben.",
-    "es": "Fallos raros de Dynamic Island corregidos.",
-    "fr": "Rares plantages de Dynamic Island corrigés.",
-    "it": "Rari crash di Dynamic Island risolti.",
-    "pt-PT": "Falhas raras da Dynamic Island corrigidas.",
-    "ru": "Исправлены редкие сбои Dynamic Island."
+    "en": "Added 10 all-new widget styles.",
+    "zh-Hans": "新增10个全新样式小组件。",
+    "zh-Hant": "新增10個全新樣式小組件。",
+    "ja": "全新デザインのウィジェットスタイルを10種追加しました。",
+    "ko": "완전히 새로운 위젯 스타일 10가지를 추가했습니다.",
+    "de": "10 völlig neue Widget-Stile hinzugefügt.",
+    "es": "Se añadieron 10 estilos de widgets completamente nuevos.",
+    "fr": "10 styles de widgets entièrement nouveaux ajoutés.",
+    "it": "Aggiunti 10 stili di widget completamente nuovi.",
+    "pt-PT": "Adicionados 10 estilos de widgets totalmente novos.",
+    "ru": "Добавлено 10 совершенно новых стилей виджетов."
   },
   "appStoreURL": "https://apps.apple.com/app/id6702013570"
 }
